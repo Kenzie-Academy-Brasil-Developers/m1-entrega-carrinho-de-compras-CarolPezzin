@@ -1,0 +1,65 @@
+    body {
+        background: darkgrey;
+    }
+    
+    main {
+        background: rgb(223, 219, 212);
+        height: 89vh;
+        width: 180vh;
+        padding: 30px;
+    }
+    
+    ul {
+        background: rgb(247, 245, 245);
+        width: 350px;
+        height: 400px;
+        padding: 20px;
+        border-radius: 5%;
+        display: flexbox;
+        align-content: center;
+        text-align: center;
+    }
+    
+    h2 {
+        border-radius: 10%;
+        border: 1px solid rgb(216, 61, 0);
+        background: none;
+    }
+    
+    li {
+        margin-top: 15px;
+        background: rgb(236, 231, 215);
+        padding: 10px;
+        border-radius: 3%;
+        color: rgb(228, 0, 0);
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    section {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        border-radius: 5%;
+        background: rgb(219, 218, 218);
+        padding: 25px;
+        width: 340px;
+    }
+    
+    div {
+        background: rgb(243, 188, 188);
+        width: 100px;
+        height: 25px;
+        text-align: center;
+        border-radius: 5%;
+    }
+    
+    button {
+        background: rgb(211, 204, 204);
+        width: 100px;
+        height: 25px;
+        text-align: center;
+        border-radius: 5%;
+        border: 1px solid black;
+    }
